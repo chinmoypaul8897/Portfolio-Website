@@ -1,0 +1,53 @@
+ <!----------Services --- -->
+
+    <div id="services" class="w-full px-[12%] py-10 scroll-mt-20">
+        <h4 class="text-center mb-2 text-lg font-Ovo">What I Offer</h4>
+        <h2 class="text-center text-5xl font-Ovo"> My Services </h2>
+        <p class="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo">
+            I am a Backend Web developer from Bangalore , India . Currently pursuing my graduation from IIT guwhati on Data Science and Artificial Inteligence .
+
+        </p>
+
+        <div class="grid grid-cols-auto gap-6 my-10">
+
+            <!--CodeChef -->
+            <div class="border border-gray-400 rounded-lg px-8 py-12 hover:shadow-black cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 dark:hover:bg-darkHover dark:hover:shadow-white">
+                <img src="./images/codechef2.png" alt="" class="w-12 dark:hidden">
+                <img src="./images/codechef2_dark.png" alt="" class="w-12 hidden dark:block">
+
+                <h3 class="text-lg my-4 text-gray-700 dark:text-white">CodeChef </h3>
+                <p class="text-sm text-gray-600 leading-5 dark:text-white/80">Completed over 950 challenges, participated in 35+ contests, and reached a peak rating of 1444.</p>
+                <a href="https://www.codechef.com/users/chinmoypaul" target="_blank" class="flex items-center gap-2 text-sm mt-5">View Profile <img src="./images/right-arrow.png" alt="" class="w-4"></a>
+            </div>
+
+
+            <!--Codforces  -->
+            <div class="border border-gray-400 rounded-lg px-8 py-12 hover:shadow-black cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 dark:hover:bg-darkHover dark:hover:shadow-white">
+                <img src="./images/cf-image.png" alt="" class="w-10 dark:hidden" >
+                <img src="./images/codeforce_dark-img.png" alt="" class="w-10 hidden dark:block">
+
+                <h3 class="text-lg my-4 text-gray-700 dark:text-white">Codeforces </h3>
+                <p class="text-sm text-gray-600 leading-5 dark:text-white/80">I have solved 150+ problems, participated in 35+ contests, and achieved a highest rating of 1008.</p>
+                <a href="https://codeforces.com/profile/chinmoypaul" target="_blank" class="flex items-center gap-2 text-sm mt-5">View Profile <img src="./images/right-arrow.png" alt="" class="w-4"></a>
+            </div>
+
+            <!--Codolio -->
+            <div class="border border-gray-400 rounded-lg px-8 py-12 hover:shadow-black cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 dark:hover:bg-darkHover dark:hover:shadow-white">
+                
+                <img src="./images/codolio-img.GIF" alt="" class="w-10">
+
+                <h3 class="text-lg my-4 text-gray-700 dark:text-white">Codolio </h3>
+                <p class="text-sm text-gray-600 leading-5 dark:text-white/80">Tracks my DSA and CP profiles, showcasing my consistency, performance, and algorithm proficiency.</p>
+                <a href="https://codolio.com/profile/chinmoypaul" target="_blank" class="flex items-center gap-2 text-sm mt-5">View Profile <img src="./images/right-arrow.png" alt="" class="w-4"></a>
+            </div>
+
+            <!--Github  -->
+            <div class="border border-gray-400 rounded-lg px-8 py-12 hover:shadow-black cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 dark:hover:bg-darkHover dark:hover:shadow-white">
+                <img src="./images/github 100 image.png" alt="" class="w-10 dark:hidden" >
+                <img src="./images/github image for dark.png" alt="" class="w-10 hidden dark:block" >
+                <h3 class="text-lg my-4 text-gray-700 dark:text-white">Github </h3>
+                <p class="text-sm text-gray-600 leading-5 dark:text-white/80">Features my projects and contributions as I explore and expand my skills in various technologies.</p>
+                <a href="https://github.com/chinmoypaul8897" target="_blank" class="flex items-center gap-2 text-sm mt-5">View Profile  <img src="./images/right-arrow.png" alt="" class="w-4"></a>
+            </div>
+        </div>
+    </div>
